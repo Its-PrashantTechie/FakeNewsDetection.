@@ -8,8 +8,6 @@ Fake vs True News Detection system using Python, TF-IDF, and PassiveAggressiveCl
 
 Full dataset available via Google Drive: /FakeNewsData/True.csv.zip and Fake.csv.zip
 
-Small sample CSVs included in the repo for quick demo.
-
 3)Steps Performed
 
 Data labeling, merging, EDA & visualizations
